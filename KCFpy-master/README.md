@@ -8,7 +8,7 @@ Python implementation of
 It is translated from [KCFcpp](https://github.com/joaofaro/KCFcpp) (Authors: Joao Faro, Christian Bailer, Joao F. Henriques), a C++ implementation of Kernelized Correlation Filters. Find more references and code of KCF at http://www.robots.ox.ac.uk/~joao/circulant/
 
 ### Requirements
-- Python 2.7
+- Python 3.6
 - NumPy
 - Numba (needed if you want to use the hog feature)
 - OpenCV (ensure that you can `import cv2` in python)
