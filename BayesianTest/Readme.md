@@ -1,6 +1,6 @@
 实现了贝叶斯网络，并以一简单的概率模型进行网络验证
 
-![](D:\study_work\Project\BayesianTest\model.png)
+![](Readme.assets/model.png)
 
 运行前应执行
 ```
