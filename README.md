@@ -2,7 +2,9 @@
 摸鱼的科研探索
 
 环境：
+
     python 3.6
+<<<<<<< HEAD
 
 ​    tensorflow-gpu 1.8.0(或者其他可兼容的版本)
 
@@ -10,3 +12,4 @@
 ```
 pip/conda install packagename
 ```
+
