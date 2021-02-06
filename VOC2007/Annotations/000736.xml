@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>4</folder>
+<filename>000736.jpg</filename>
+<path>D:\4\000736.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>720</width>
+    <height>576</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>undeflect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>177</xmin>
+        <ymin>110</ymin>
+        <xmax>258</xmax>
+        <ymax>178</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>165</xmin>
+        <ymin>207</ymin>
+        <xmax>300</xmax>
+        <ymax>453</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>undeflect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>359</xmin>
+        <ymin>160</ymin>
+        <xmax>409</xmax>
+        <ymax>209</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>344</xmin>
+        <ymin>224</ymin>
+        <xmax>430</xmax>
+        <ymax>402</ymax>
+    </bndbox>
+</object>
+</annotation>

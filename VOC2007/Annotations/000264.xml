@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>000264.jpg</filename>
+	<path>C:\Users\24390\Desktop\2\000264.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deflection</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>189</ymin>
+			<xmax>329</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>
