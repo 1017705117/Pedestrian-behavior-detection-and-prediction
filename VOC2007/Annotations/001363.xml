@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>001363.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\VOC2007\JPEGImages\001363.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deflection</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>271</ymin>
+			<xmax>409</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

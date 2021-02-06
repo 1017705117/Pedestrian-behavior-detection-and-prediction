@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>001172.jpg</filename>
+	<path>D:\Faster-RCNN-TensorFlow4\data\VOCdevkit2007\VOC2007\JPEGImages\001172.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>419</width>
+		<height>315</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deflection</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>43</ymin>
+			<xmax>183</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

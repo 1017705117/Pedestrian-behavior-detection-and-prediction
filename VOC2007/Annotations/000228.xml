@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>000228.jpg</filename>
+	<path>C:\Users\24390\Desktop\2\000228.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>256</ymin>
+			<xmax>374</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>
